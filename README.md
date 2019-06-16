@@ -2,7 +2,4 @@
 Crud em Java com JDBC 
 
 
-
-
-
-Creditos Rubens Leme
+Ajuda do Professor Rubens Leme.
